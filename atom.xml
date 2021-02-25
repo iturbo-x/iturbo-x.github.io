@@ -6,7 +6,7 @@
   <link href="http://iturbo-x.github.io/atom.xml" rel="self"/>
   
   <link href="http://iturbo-x.github.io/"/>
-  <updated>2021-02-24T03:04:02.391Z</updated>
+  <updated>2021-02-25T03:16:29.829Z</updated>
   <id>http://iturbo-x.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>new article</title>
+    <link href="http://iturbo-x.github.io/2021/02/25/new-article/"/>
+    <id>http://iturbo-x.github.io/2021/02/25/new-article/</id>
+    <published>2021-02-25T02:37:34.000Z</published>
+    <updated>2021-02-25T03:16:29.829Z</updated>
+    
+    
+    
+    
+    
+    <category term="ab" scheme="http://iturbo-x.github.io/tags/ab/"/>
+    
+    <category term="hexo" scheme="http://iturbo-x.github.io/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>test_my_site</title>
